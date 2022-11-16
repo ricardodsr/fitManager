@@ -1,13 +1,13 @@
 # FitManager
-Trabalho Relacionado com (POO) <br>
-{ "Autores POO", "Ricardo D.S.Rouco 39502",
-	"Luis M. C. Martins 40616 " };
+	Trabalho Relacionado com (POO) <br>
+	{ "Autores POO", "Ricardo D.S.Rouco",
+		"Luis M. C. Martins" };
 
 # Conteúdo
-Abstract classes <br>
-Serializable<br>
-Comparators<br>
-Hashmaps<br>
-Treesets<br>
-Maps<br>
-Lists<br>
+	Abstract classes
+	Serializable
+	Comparators
+	Hashmaps
+	Treesets
+	Maps
+	Lists
